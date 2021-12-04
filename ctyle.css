@@ -1,0 +1,76 @@
+.gg {
+    height: 1060px;
+    width: 1900px;
+    background-size: 100%;
+    background-image: url(151546-salto_akrobaticheskij-izmeritel-kosmos-illustracia-chernyj_belyj_m-2048x1152.jpg);
+}
+
+.text {
+    width: 1140px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+.test {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: orchid;
+}
+
+
+.hh {
+    width: 1140px;
+    height: 860px;      
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+.text1{
+    width: 360px;
+    height: 420px;
+    border: 1px solid white;
+    color: orchid;
+}
+.text2{
+    width: 560px;
+    height: 316px;
+    border: 1px solid white;
+    margin-top: 420px;
+    color: orchid;
+}
+.text3{
+    width: 360px;
+    height: 420px;
+    border: 1px solid white;
+    color: orchid;
+}
+
+
+.jj {
+    width: 1140px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ogo{
+    width: 500px;
+    height: 80px;
+    border: 1px solid white;
+    margin-left: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: orchid;
+}
+.gog{
+    width: 500px;
+    height: 80px;
+    border: 1px solid white; 
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: orchid;
+}
